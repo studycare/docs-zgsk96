@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-jx920x.hartawin.online/sitemap.xml
